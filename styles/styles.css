@@ -53,6 +53,11 @@ header{
   grid-template-columns: 150px auto;
 }
 
+#main_img{
+  max-width: 100%;
+  height: auto;
+}
+
 .logo, .icon{
   width: 80px;
 }
