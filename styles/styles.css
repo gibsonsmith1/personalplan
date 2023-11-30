@@ -80,6 +80,36 @@ nav a:hover{
   margin-top: 10px;
 }
 
+.flower1{
+  display: grid;
+  max-width: 50%;
+  height: auto;
+  display: flex;
+  flex-wrap: wrap;
+  padding: 0 4px;
+  margin-top: 8px;
+  vertical-align: middle;
+}
+.flower2{
+  display: grid;
+  max-width: 50%;
+  height: auto;
+  display: flex;
+  flex-wrap: wrap;
+  padding: 0 4px;
+  margin-top: 8px;
+  vertical-align: middle;
+}
+
+h2{
+  font-family: var(--heading-font);
+}
+
+.alt-image{
+  max-width: 100%;
+  height: auto;
+}
+
 main home-grid{
   display: grid;
   grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr;
